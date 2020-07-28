@@ -1,0 +1,6 @@
+node_mnodules
+/.vscode
+/.git
+serviceWorker.js
+App.test.js
+index.js
